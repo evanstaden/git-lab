@@ -83,7 +83,6 @@ Answer 12: The changes are now present in my local file.
 
 Answer 13: .  ..  .git  .gitignore  README.md
 
-Answer 14: 
 
 
 
